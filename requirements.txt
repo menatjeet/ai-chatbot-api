@@ -1,1 +1,10 @@
 fastapi[standard]
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+alembic
+pwdlib[argon2]
+PyJWT
+google-genai
+pytest
+pytest-asyncio
